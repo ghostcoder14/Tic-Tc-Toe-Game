@@ -6,7 +6,6 @@
 # Introduction
 # Features
 # How to Play
-# Installation
 # Usage
 --------------------------------------------------
 # Introduction
